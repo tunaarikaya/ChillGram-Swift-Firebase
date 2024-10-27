@@ -33,6 +33,7 @@ class FeedCell: UITableViewCell {
         //uoload data
               
               if let likeCount = Int(likeLabel.text!) {
+                  //data here 2
                   
                   let likeStore = ["likes" : likeCount + 1] as [String : Any]
                   
