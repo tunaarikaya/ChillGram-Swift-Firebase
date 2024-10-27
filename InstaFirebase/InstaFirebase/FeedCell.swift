@@ -30,6 +30,7 @@ class FeedCell: UITableViewCell {
 
     @IBAction func likeButtonClicked(_ sender: Any) {
         let fireStoreDatabase = Firestore.firestore()
+        //uoload data
               
               if let likeCount = Int(likeLabel.text!) {
                   
