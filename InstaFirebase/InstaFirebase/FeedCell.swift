@@ -10,6 +10,7 @@ import Firebase
 
 class FeedCell: UITableViewCell {
     @IBOutlet weak var userEmailLabel: UILabel!
+    //define users emails
     
     @IBOutlet weak var commentLabel: UILabel!
     
