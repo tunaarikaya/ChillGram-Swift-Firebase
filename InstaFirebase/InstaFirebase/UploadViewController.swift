@@ -58,6 +58,7 @@ class UploadViewController: UIViewController, UIImagePickerControllerDelegate, U
         if let data = imageView.image?.jpegData(compressionQuality: 0.5) {
             
             let uuid = UUID().uuidString
+            //commit
             
             let imageReference = mediaFolder.child("\(uuid).jpg")
             imageReference.putData(data, metadata: nil) { (metadata, error) in
