@@ -38,7 +38,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
             self.window = window
             window.makeKeyAndVisible()
         }
-    }
+    }//erfwe
 
     func sceneDidDisconnect(_ scene: UIScene) {
         // Called as the scene is being released by the system.
