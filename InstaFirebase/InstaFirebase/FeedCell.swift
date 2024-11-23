@@ -14,7 +14,7 @@ class FeedCell: UITableViewCell {
     
     @IBOutlet weak var commentLabel: UILabel!
     //take comment
-//efwerew
+//efwereww
     //dkdndj
     
     @IBOutlet weak var userImageView: UIImageView!
