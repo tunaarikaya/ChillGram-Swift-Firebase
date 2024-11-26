@@ -4,7 +4,7 @@ import UIKit
 import Firebase
 import FirebaseAuth
 import  FirebaseStorage
-//importlarss
+//importlarsss
 
 class UploadViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
