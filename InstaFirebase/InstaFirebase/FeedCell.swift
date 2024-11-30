@@ -13,7 +13,7 @@ class FeedCell: UITableViewCell {
     //define users emails
     
     @IBOutlet weak var commentLabel: UILabel!
-    //take commentttt
+    //take commenttttt
 
     //dkd
     
