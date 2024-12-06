@@ -3,7 +3,7 @@
 //  InstaFirebase
 //
 //  Created by Mehmet Tuna Arıkaya on 18.09.2024.
-//q22
+//q2
 
 import UIKit
 import Firebase
