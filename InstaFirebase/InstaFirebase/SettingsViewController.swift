@@ -13,7 +13,7 @@ class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //iaawz
+        //iaa
 
         // Do any additional setup after loading the view.
     }
